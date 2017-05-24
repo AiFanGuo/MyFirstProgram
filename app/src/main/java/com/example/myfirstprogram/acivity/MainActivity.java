@@ -1,9 +1,10 @@
-package com.example.myfirstprogram;
+package com.example.myfirstprogram.acivity;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.myfirstprogram.R;
 import com.example.myfirstprogram.base.BaseActivity;
 
 public class MainActivity extends BaseActivity {
