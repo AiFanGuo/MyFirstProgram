@@ -13,7 +13,6 @@ public class MainActivity extends BaseActivity {
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
     }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         onWindowFocusChanged(true);
